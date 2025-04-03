@@ -1,8 +1,11 @@
 # My Repositories
-**Bitcoin-Balance-Fetcher:**
-https://github.com/madhu-aala/Bitcoin-Balance-Fetcher
+**leet-code-practice:**
+https://github.com/madhu-aala/leet-code-practice
 
-**CoreJava:**
+**core-java:**
+https://github.com/madhu-aala/core-java
+
+**Bitcoin-Balance-Fetcher:**
 https://github.com/madhu-aala/Bitcoin-Balance-Fetcher
 
 **EmpManagement:**
@@ -11,8 +14,5 @@ https://github.com/madhu-aala/EmpManagement
 **Groceries:**
 https://github.com/madhu-aala/Groceries
 
-**HelloStruts:**
-https://github.com/madhu-aala/HelloStruts
-
-**holdings:**
-https://github.com/madhu-aala/holdings
+**dark-light-mode:**
+https://github.com/madhu-aala/dark-light-mode
