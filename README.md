@@ -16,3 +16,6 @@ https://github.com/madhu-aala/Groceries
 
 **dark-light-mode:**
 https://github.com/madhu-aala/dark-light-mode
+
+**Merkle Tree Implementation in Java**
+https://github.com/madhu-aala/merkle-tree
