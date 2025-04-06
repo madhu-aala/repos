@@ -17,7 +17,7 @@ This repo brings together all my open-source and learning projects in one organi
 
 | S.No | Project | Description | Tech Stack |
 |------|---------|-------------|------|
-| 1 | [🧑‍💻 LeetCode Practice](https://github.com/madhu-aala/leetcode-practice) | A collection of Java solutions for LeetCode problems | ![Java](https://img.shields.io/badge/Java-blue) |
+| 1 | [🧑‍💻 LeetCode Practice](https://github.com/madhu-aala/leet-code-practice) | A collection of Java solutions for LeetCode problems | ![Java](https://img.shields.io/badge/Java-blue) |
 | 2 | [🌓 Dark/Light Mode](https://github.com/madhu-aala/dark-light-mode) | Dark and light mode toggle using HTML, CSS, and JavaScript. | ![HTML](https://img.shields.io/badge/HTML-orange) ![CSS](https://img.shields.io/badge/CSS-purple) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) |
 
 ## 📬 Let's connect
