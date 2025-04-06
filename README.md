@@ -1,21 +1,29 @@
-# My Repositories
-**leet-code-practice:**
-https://github.com/madhu-aala/leet-code-practice
+# 🗂️ My GitHub Project Hub
 
-**core-java:**
-https://github.com/madhu-aala/core-java
+![GitHub followers](https://img.shields.io/github/followers/madhu-aala?label=Follow&style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/madhu-aala/repos)
+![GitHub repo size](https://img.shields.io/github/repo-size/madhu-aala/repos)
 
-**Bitcoin-Balance-Fetcher:**
-https://github.com/madhu-aala/Bitcoin-Balance-Fetcher
+Welcome to my central GitHub repository — a single place to explore all the projects I've worked on.
 
-**EmpManagement:**
-https://github.com/madhu-aala/EmpManagement
+This repo brings together all my open-source and learning projects in one organized place.
 
-**Groceries:**
-https://github.com/madhu-aala/Groceries
+## 📌 Table of Contents
 
-**dark-light-mode:**
-https://github.com/madhu-aala/dark-light-mode
+- [List of Repositories](#-list-of-repositories)
+- [Let's Connect](#-lets-connect)
 
-**Merkle Tree Implementation in Java**
-https://github.com/madhu-aala/merkle-tree
+## 📌 List of Repositories
+
+| S.No | Project | Description | Tech Stack |
+|------|---------|-------------|------|
+| 1 | [🧑‍💻 LeetCode Practice](https://github.com/madhu-aala/leetcode-practice) | A collection of Java solutions for LeetCode problems | ![Java](https://img.shields.io/badge/Java-blue) |
+| 2 | [🌓 Dark/Light Mode](https://github.com/madhu-aala/dark-light-mode) | Dark and light mode toggle using HTML, CSS, and JavaScript. | ![HTML](https://img.shields.io/badge/HTML-orange) ![CSS](https://img.shields.io/badge/CSS-purple) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) |
+
+## 📬 Let's connect
+
+- LinkedIn: [Madhu](https://www.linkedin.com/in/madhu-aala)
+
+---
+
+> ⭐ Found something interesting? Star this repo to revisit anytime!
